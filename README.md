@@ -72,7 +72,7 @@ Even after finished VT update, the wizard still couldn't do this misterious `qui
 
 Waiting for so long after each change, some random stuff happening, the official tutorial, which was provided to us, not working and long hours of trying desparately convinced me that trying for another $\mathcal{N}(4, 2)$ hours (normal distribution with mean at 4 and standard deviation at 2) was just not worth it.
 
-So here are a few pictures that show other stuff I did:
+So here are the pictures that show that I did the rest of the task:
 
 Windows 7 (I also figured out with time that Windows 7 does not work with the default e1000e VM network device model, and I needed to change it to rtl8139 - at least I did not waste a few hours on this quirk; the time wasted was measured in minutes):
 
